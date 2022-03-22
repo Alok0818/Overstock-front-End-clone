@@ -68,6 +68,11 @@
       <li>All the data is stored in the localStorage of the User.</li>
     </ul>
     
+   <h1>Instructions to Run the Code</h1>
+    <ul>
+        <li>Clone my repository https://github.com/Alok0818/Overstock-front-End-clone.git</li>
+    </ul>
+    
     
     
     
