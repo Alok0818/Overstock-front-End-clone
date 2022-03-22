@@ -16,6 +16,7 @@
     <br />
     <h3>Live Site(https://overstock-front-end-clone.vercel.app/)</h3>
     <h3>About Overstock</h3>
+    <p>Overstock.com help you discover designer brands & home goods at the lowest prices online. With free shipping on EVERYTHING*.</p>
     <p>
       Overstock.com, Inc. is an American internet retailer selling primarily
       furniture headquartered in Midvale, Utah, near Salt Lake City. Patrick M.
