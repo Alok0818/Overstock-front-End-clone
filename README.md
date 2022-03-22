@@ -17,21 +17,29 @@
     <h3>Live Site(https://overstock-front-end-clone.vercel.app/)</h3>
   <h1>Snapshots</h1>
     <img
-      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
-      alt="Overstock"
+      src="https://user-images.githubusercontent.com/94324872/159502048-a7ba4918-96f6-4f91-bbe7-5ef3bf950669.png"
+      alt="Signup"
     />
     <img
-      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
-      alt="Overstock"
+      src="https://user-images.githubusercontent.com/94324872/159501985-a7cc482e-0342-4f23-b234-bf84dcefaac3.png"
+      alt="home"
     />
     <img
-      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
-      alt="Overstock"
+      src="https://user-images.githubusercontent.com/94324872/159502143-fac74285-7e3a-4033-90a7-83f528991e57.png"
+      alt="product"
     />
     <img
-      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
-      alt="Overstock"
-    />  
+      src="https://user-images.githubusercontent.com/94324872/159502238-7d69c4a8-91c2-4b98-a9e9-25a2d571f309.png"
+      alt="Cart"
+    />
+    <img
+      src="https://user-images.githubusercontent.com/94324872/159502184-e231b51d-9911-4f4a-96d6-7e3c558b7ab1.png"
+      alt="shipping"
+    />
+    <img
+      src="https://user-images.githubusercontent.com/94324872/159502110-5544daa9-a1a2-447d-a2d2-5fc49a9ab898.png"
+      alt="payment"
+    />
    <h1>About Overstock</h1>
     <p>Overstock.com help you discover designer brands & home goods at the lowest prices online. With free shipping on EVERYTHING*.</p>
     <p>
