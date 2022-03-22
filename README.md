@@ -15,7 +15,24 @@
     />
     <br />
     <h3>Live Site(https://overstock-front-end-clone.vercel.app/)</h3>
-    <h1>About Overstock</h1>
+  <h1>Snapshots</h1>
+    <img
+      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
+      alt="Overstock"
+    />
+    <img
+      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
+      alt="Overstock"
+    />
+    <img
+      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
+      alt="Overstock"
+    />
+    <img
+      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
+      alt="Overstock"
+    />  
+   <h1>About Overstock</h1>
     <p>Overstock.com help you discover designer brands & home goods at the lowest prices online. With free shipping on EVERYTHING*.</p>
     <p>
       Overstock.com, Inc. is an American internet retailer selling primarily
