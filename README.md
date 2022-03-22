@@ -15,6 +15,9 @@
     />
     <br />
     <h3>Live Site(https://overstock-front-end-clone.vercel.app/)</h3>
+    <h1>Video Link:-</h1>
+    <h3>we have shared a demo presentation of this project "Overstock-clone".</h3>
+    <h3>https://drive.google.com/file/d/1xHG4ltDdeLgHZ1YjHw9kdjcRyAwJ8t92/view?usp=sharing</h3>
   <h1>Snapshots</h1>
     <img
       src="https://user-images.githubusercontent.com/94324872/159502048-a7ba4918-96f6-4f91-bbe7-5ef3bf950669.png"
