@@ -14,7 +14,14 @@
       alt="Overstock"
     />
     <br />
-    <h3>Live Site(https://overstock-front-end-clone.vercel.app/)</h3>
+    <h1>About Overstock</h1>
+    <p>Overstock.com help you discover designer brands & home goods at the lowest prices online. With free shipping on EVERYTHING*.</p>
+    <p>
+      Overstock.com, Inc. is an American internet retailer selling primarily
+      furniture headquartered in Midvale, Utah, near Salt Lake City. Patrick M.
+      Byrne founded Overstock.com in 1999.
+    </p>
+   <h3>Live Site(https://overstock-front-end-clone.vercel.app/)</h3>
     <h1>Video Link:-</h1>
     <h3>we have shared a demo presentation of this project "Overstock-clone".</h3>
     <h3>https://drive.google.com/file/d/1xHG4ltDdeLgHZ1YjHw9kdjcRyAwJ8t92/view?usp=sharing</h3>
@@ -43,14 +50,8 @@
       src="https://user-images.githubusercontent.com/94324872/159502110-5544daa9-a1a2-447d-a2d2-5fc49a9ab898.png"
       alt="payment"
     />
-   <h1>About Overstock</h1>
-    <p>Overstock.com help you discover designer brands & home goods at the lowest prices online. With free shipping on EVERYTHING*.</p>
-    <p>
-      Overstock.com, Inc. is an American internet retailer selling primarily
-      furniture headquartered in Midvale, Utah, near Salt Lake City. Patrick M.
-      Byrne founded Overstock.com in 1999.
-    </p>
-    <h1>Technology We Used</h1>
+   
+   <h1>Technology We Used</h1>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
