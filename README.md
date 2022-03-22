@@ -1,5 +1,4 @@
-# Overstock_Web_Clone
-<h3>Overstock_Website_Clone</h3>
+# Overstock_Website_Clone
     <p>
       This is clone of Overstock.com, where we have used HTML, CSS and
       Javascript to acheive this. In this project we have tried to clone the
