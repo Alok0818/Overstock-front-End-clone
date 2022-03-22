@@ -22,6 +22,12 @@
       furniture headquartered in Midvale, Utah, near Salt Lake City. Patrick M.
       Byrne founded Overstock.com in 1999.
     </p>
+    <h1>Technology We Used</h1>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+    </ul>
     <h1>Features</h1>
     <ul>
       <li>You will be able to create your account using login and signup option.</li>
