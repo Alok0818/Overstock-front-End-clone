@@ -8,13 +8,11 @@
       up our skills and we also accordingly implemented all that teachings in
       our project to look it at its best.
     </p>
+    https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png
     
-    <h3>About Overstock</h3>
-    <p>
-      Overstock.com, Inc. is an American internet retailer selling primarily
-      furniture headquartered in Midvale, Utah, near Salt Lake City. Patrick M.
-      Byrne founded Overstock.com in 1999.
-    </p>
+    
+    
+    
 
     
 
