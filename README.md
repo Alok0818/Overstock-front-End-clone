@@ -70,7 +70,7 @@
     
    <h1>Instructions to Run the Code</h1>
     <ul>
-        <li>Clone my repository https://github.com/Alok0818/Overstock-front-End-clone.git</li>
+        <li>Clone my repository </li> https://github.com/Alok0818/Overstock-front-End-clone.git
     </ul>
     
     
