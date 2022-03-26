@@ -70,7 +70,7 @@
     
    <h1>Instructions to Run the Code</h1>
     <ul> 
-        <li>Clone my repository https://github.com/Alok0818/Overstock-front-End-clone.git</li> 
+        <li>Clone my repository `https://github.com/Alok0818/Overstock-front-End-clone.git`</li> 
       <li>Open that code in your VS code index.html</li>
         <li>Open the index.html on Live server</li>
         <li>Then you can Navigate through other pages from Landing page like signin.html, cart.html, etc.</li>
