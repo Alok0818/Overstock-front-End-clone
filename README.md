@@ -69,11 +69,12 @@
     </ul>
     
    <h1>Instructions to Run the Code</h1>
-      Clone my repository `https://github.com/Alok0818/Overstock-front-End-clone.git`</li> 
-      Open that code in your VS code `index.html`
-      Open the `index.html` on Live server
-      Then you can Navigate through other pages from Landing page like `signin.html , cart.html, home.html` etc.
-    
+   <ul>
+      <li>Clone my repository `https://github.com/Alok0818/Overstock-front-End-clone.git`</li> 
+      <li>Open that code in your VS code `index.html`</li>
+      <li>Open the `index.html` on Live server</li>
+      Then you can Navigate through other pages from Landing page like `signin.html , cart.html, home.html` etc.</li>
+    </ul>
     
     
     
